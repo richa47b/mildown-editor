@@ -1,0 +1,24 @@
+{
+  "name": "milkdown-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@milkdown/core": "6.1.4",
+    "@milkdown/plugin-emoji": "6.1.4",
+    "@milkdown/plugin-menu": "6.1.4",
+    "@milkdown/plugin-slash": "6.1.4",
+    "@milkdown/plugin-tooltip": "6.1.4",
+    "@milkdown/preset-commonmark": "6.1.4",
+    "@milkdown/prose": "6.1.4",
+    "@milkdown/theme-nord": "6.1.4",
+    "vite": "2.9.9"
+  },
+  "devDependencies": {
+    "typescript": "4.7.3"
+  },
+  "keywords": []
+}
